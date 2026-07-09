@@ -1,0 +1,42 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "DUSTy Roads",
+    "description": "A modlist centered around Fallout New Vegas' legendary DUST Survival Simulator, incorporating fixes and improvements for a stable, bug-free, yet gritty experience.",
+    "author": "krrptd",
+    "maintainers": [
+      "github.com/tkrrptd"
+    ],
+    "game": "FalloutNewVegas",
+    "tags": [
+      "DLC Required",
+      "Steam",
+      "GOG",
+      "Survival",
+      "Total Overhaul"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/tkrrptd/dustyroads/main/dustyroads.webp",
+      "readme": "https://tkrrptd.github.io/dusty-roads/wabbajack/",
+      "download": "https://authored-files.wabbajack.org/DUSTy Roads.wabbajack_35611b78-3680-4d44-970e-f2fff28e36d3",
+      "machineURL": "DustyRoads",
+      "discordURL": "https://discord.gg/AJxH6mFTnE"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "nthotq7dQiI=",
+      "Size": 235523555,
+      "NumberOfArchives": 177,
+      "SizeOfArchives": 4673817574,
+      "NumberOfInstalledFiles": 22862,
+      "SizeOfInstalledFiles": 12761866546,
+      "TotalSize": 17435684120
+    },
+    "version": "2.0.0"
+  }
+]
+
