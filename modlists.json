@@ -10,10 +10,9 @@
     "game": "FalloutNewVegas",
     "tags": [
       "DLC Required",
-      "Steam",
-      "GOG",
       "Survival",
-      "Total Overhaul"
+      "Total Overhaul",
+      "Hardcore"
     ],
     "nsfw": false,
     "image_contains_title": true,
@@ -24,7 +23,8 @@
       "readme": "https://tkrrptd.github.io/dusty-roads/wabbajack/",
       "download": "https://authored-files.wabbajack.org/DUSTy Roads.wabbajack_af938192-5a6c-4bf3-a7a0-623bf166f8d9",
       "machineURL": "DustyRoads",
-      "discordURL": "https://discord.gg/AJxH6mFTnE"
+      "discordURL": "https://discord.gg/AJxH6mFTnE",
+      "websiteURL": "https://tkrrptd.github.io/dusty-roads/"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
