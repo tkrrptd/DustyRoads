@@ -21,22 +21,22 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/tkrrptd/dustyroads/main/dustyroads.webp",
       "readme": "https://tkrrptd.github.io/dusty-roads/wabbajack/",
-      "download": "https://authored-files.wabbajack.org/DUSTy Roads.wabbajack_57857a9c-4b30-4608-abf1-f3729a321e54",
+      "download": "https://authored-files.wabbajack.org/DUSTy Roads.wabbajack_af938192-5a6c-4bf3-a7a0-623bf166f8d9",
       "machineURL": "DustyRoads",
       "discordURL": "https://discord.gg/AJxH6mFTnE",
       "websiteURL": "https://tkrrptd.github.io/dusty-roads/"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "SGkCnz2Q5sE=",
-      "Size": 235527079,
+      "Hash": "nthotq7dQiI=",
+      "Size": 235523555,
       "NumberOfArchives": 177,
-      "SizeOfArchives": 4675332214,
-      "NumberOfInstalledFiles": 22866,
-      "SizeOfInstalledFiles": 12762398689,
-      "TotalSize": 17437730903
+      "SizeOfArchives": 4673817574,
+      "NumberOfInstalledFiles": 22862,
+      "SizeOfInstalledFiles": 12761866546,
+      "TotalSize": 17435684120
     },
-    "version": "2.0.1"
+    "version": "2.0.0"
   }
 ]
 
